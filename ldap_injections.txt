@@ -21,3 +21,4 @@ None
 johny)(&)
 johny)(uid=*)
 johny)(uid=*
+NUL
